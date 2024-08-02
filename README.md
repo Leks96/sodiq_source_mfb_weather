@@ -6,6 +6,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm install`
+
+This command installs all the necessary dependencies listed in the `package.json` file. It creates a `node_modules` directory in the project directory where all the packages will be stored.
+
+To run this command, navigate to the project directory and execute:
+
+```sh
+npm install
+```
+
+This step is essential for setting up your development environment.
+
 ### `npm start`
 
 Runs the app in the development mode.\
